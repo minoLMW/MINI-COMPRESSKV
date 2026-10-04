@@ -1,0 +1,4 @@
+numpy>=1.26,<3
+# Optional actual-model runner (legacy tuple cache intentionally pinned):
+torch>=2.2,<3
+transformers==4.44.2

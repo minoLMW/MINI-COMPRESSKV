@@ -1,0 +1,33 @@
+{
+  "kind": "synthetic_algorithm_demo_not_LLM_benchmark",
+  "selected_heads": [
+    1
+  ],
+  "retained_positions": [
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    56,
+    57,
+    58,
+    59,
+    60,
+    61,
+    62,
+    63
+  ],
+  "kv_bytes_before": 16384,
+  "kv_bytes_after": 4096,
+  "relative_attention_output_error": 1.3997929688573407,
+  "layer_budgets": [
+    11,
+    21,
+    14,
+    18
+  ]
+}
